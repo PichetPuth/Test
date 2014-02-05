@@ -2,7 +2,7 @@
     "name": "pichet/test",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "Test_PichetPuth",
     "autoload": {
         "psr-0": { "": "src/" }
     },
